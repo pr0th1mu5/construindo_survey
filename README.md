@@ -11,13 +11,13 @@
 <h3><em>Quarto:</em></h3> 
 - Feito a relação de todos os trabalhos relacionados, você irá construir uma tabela e inserir no artigo sobre esses trabalhos relacionados enfatizando o que falam e o que não falam sobre o que você deseja mostrar no survey.
 
-2. Como analisar todos os surveys pesquisados?
+# Como analisar todos os surveys pesquisados?
 >  Usando ferramentas de suporte <br /><hr>
->  Você certamente não dispõe de tempo para ler absolutamente tudo que vai encontrar. Então o jeito é usar algo que dê suporte a revisar por "cima" todos os surveys encontrados. Pra isso você usa o link abaixo:
-   typeset.io
-    Essa ferramenta lhe dá suporte para saber o que de fato interessa que são: o título do artigo, o foco do artigo, trabalhos futuros e conclusão.
+>  Você certamente não dispõe de tempo para ler absolutamente tudo que vai encontrar. Então o jeito é usar algo que dê suporte a revisar por "cima" todos os surveys encontrados. Pra isso, você usa a ferramenta
+[typeset com I.A](https://typeset.io/)
+    Essa ferramenta lhe dá suporte para saber o que de fato interessa que são: o título do artigo, o foco do artigo, trabalhos futuros e conclusão. Basta realizar o upload do artigo e realizar as perguntas que lhe interessam que a I.A lhe responde exatamente o que você perguntou. Isso otimizará seu tempo em muito.
     Tabelado tudo isso além de outras questões que interessam a você, essa primeira parte está concluida.
-4. Após feito a tabela de surveys?
+# Após feito a tabela de surveys?
 O próximo passo é pesquisar todos os artigos dentro do tema em questão que lhe interessa através da utilização de "Strings de busca" definidas por você e seu orientador(a). Essas Strings podem ser usadas nos periódidos da capes ou em sites específicos que permitem buscas avançadas a inclusão de conectivos como OR e AND.
 
 Faça isso para realiar o levantamento de todos os artigos que são de área de interesse.
